@@ -7,6 +7,8 @@ Ultimate code tracker system.
 
 ### Get started
 
+Require npm/yarn workspaces.
+
 Make sure to have lerna installed globally.
 ```bash
 npm i -g lerna
