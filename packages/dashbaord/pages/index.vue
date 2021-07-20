@@ -7,3 +7,9 @@
 <script>
 export default {}
 </script>
+
+<style scoped>
+.dede {
+  animation-delay: 0ms;
+}
+</style>

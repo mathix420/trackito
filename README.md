@@ -4,20 +4,8 @@ Ultimate code tracker system.
 
 ## Development guide
 
-### Get started
-
-Require npm/yarn workspaces.
-
-Make sure to have lerna installed globally.
-
-```bash
-npm i -g lerna
 ```
-
-```bash
-git clone https://github.com/mathix420/trackito.git
-cd trackito
-lerna bootstrap
+TODO:
 ```
 
 ## Packages
@@ -29,7 +17,3 @@ Forked from [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakati
 ### `packages/dashboard`
 
 Nuxt and Tailwind CSS dashboard.
-
-### `packages/core`
-
-Core trackito API.
