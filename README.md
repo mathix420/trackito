@@ -2,7 +2,6 @@
 
 Ultimate code tracker system.
 
-
 ## Development guide
 
 ### Get started
@@ -10,6 +9,7 @@ Ultimate code tracker system.
 Require npm/yarn workspaces.
 
 Make sure to have lerna installed globally.
+
 ```bash
 npm i -g lerna
 ```
@@ -20,10 +20,16 @@ cd trackito
 lerna bootstrap
 ```
 
-
 ## Packages
 
 ### `packages/vscode`
 
 Forked from [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime).
 
+### `packages/dashboard`
+
+Nuxt and Tailwind CSS dashboard.
+
+### `packages/core`
+
+Core trackito API.
